@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-My name is Daniil and I'm currently looking for a job.
+My name is Daniil, and I'm currently seeking new job opportunities.
 
-I'm a frontend engineer with 8+ years of experience and a strong understanding of the modern frontend ecosystem. I also have solid experience with Node.js backends, so I'm comfortable working as fullstack developer. I'm open to learning other BE languages your company uses.
+I'm a frontend engineer with over 9 years of experience and a deep understanding of the modern frontend ecosystem. I also have solid experience with Node.js backends, making me comfortable working as a full-stack developer. I'm open to learning other languages that your company uses.
 
 I've been working with React and TypeScript since 2015. I am also highly proficient with MobX, Next.js, Node.js, Prisma and other technologies. I would also be happy to work with Svelte or Flutter.
 
-Please feel free to get in touch with me if you have a suitable opportunity:
+I'm based in Valencia, Spain, and I am currently open to remote roles only.
+
+If you have a suitable opportunity, please feel free to reach out:
 
 - https://www.linkedin.com/in/daniildemidovich/
 - daniil.demidovich@gmail.com
