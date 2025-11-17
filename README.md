@@ -2,13 +2,13 @@
 
 My name is Daniil, and I am currently looking for new job opportunities.
 
-I am a full stack engineer with over 10 years of experience and a strong understanding of the modern web development ecosystem. 
+I am a full stack engineer with over 10 years of experience and a strong understanding of the modern web development ecosystem. I prioritize scalability, maintainability, and code consistency while providing [technical clarity](https://www.seangoedecke.com/clarity/) and delivering high quality features.
 
-I've been working with React and TypeScript since 2015. I am also highly proficient in Next.js, Node.js, MobX, different kinds of ORMs and lots of other technologies. I'm always up for learning new languages and would be happy to work with other frameworks like Svelte or Flutter.
+I've been working with React and TypeScript since 2015. I am also highly proficient in Next.js (and other SSR frameworks like TanStack or SvelteKit), Node.js, MobX (or almost any other state manager), different kinds of ORMs and lots of other technologies. I would be happy to work with other frameworks Flutter or Vue, and I'm always up for learning new languages (Looking at you, Rust).
 
-I'm located in a small city in the north of Spain called Oviedo, and I am currently open to remote roles only.
+I am based in Oviedo, a small city in northern Spain, and I am currently only open to remote roles.
 
-If you have a suitable opportunity for me, please feel free to reach out:
+If you know of a good job for me, please get in touch:
 
 - https://www.linkedin.com/in/daniildemidovich/
 - daniil.demidovich@gmail.com
