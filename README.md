@@ -8,6 +8,8 @@ I've been working with React and TypeScript since 2015. I am also highly profici
 
 I am based in Oviedo, a small city in northern Spain, and I am currently only open to remote roles.
 
+If you are looking for some code to access my skills, check out [DCSS Stats](https://github.com/O4epegb/dcss-stats) repo, it's statistics app for the Dungeon Crawl Stone Soup game, and over 100 people use it every day.
+
 If you know of a good job for me, please get in touch:
 
 - https://www.linkedin.com/in/daniildemidovich/
